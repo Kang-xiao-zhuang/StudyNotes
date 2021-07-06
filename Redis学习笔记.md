@@ -3470,4 +3470,9 @@ public final class RedisUtil {
 }
 ```
 
+<<<<<<< HEAD:Redis学习笔记.md
 **学习地址https://www.bilibili.com/video/BV1oW411u75R?from=search&seid=3220241811845891398**
+=======
+
+ **学习地址https://www.bilibili.com/video/BV1oW411u75R?from=search&seid=3220241811845891398** 
+>>>>>>> e048d4b9b5cf2541624f4d164595dc7f89ab7a4c:Redis/Redis学习笔记.md
