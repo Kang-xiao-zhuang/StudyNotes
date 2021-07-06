@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "814840f210004891",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c9ce8e9ce866d97",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "HashMap/HashMap集合进阶学习笔记.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "727127d6dc2169ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ed977067446b9d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b2c1db4f607dfc6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cd5281d1c11488f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3f8383b9c5f1b12f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a7b4824c0449512",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c24b3d0e94caa0c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HashMap/HashMap集合进阶学习笔记.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1c9ce8e9ce866d97",
+  "lastOpenFiles": [
+    "HashMap/HashMap集合进阶学习笔记.md",
+    "正则表达式/正则表达式学习笔记.md",
+    "Redis/Redis学习笔记.md",
+    "MongDB/Mongdb学习笔记.md",
+    "MySQL/MySQL学习笔记.md",
+    "MyBatis/MyBatis学习笔记.md",
+    "Java网络编程/Java网络编程学习笔记.md",
+    "Java集合/Java集合学习笔记.md"
+  ]
+}
